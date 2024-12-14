@@ -107,7 +107,6 @@
 - **GitHub**: [github.com/deenajabatchu](https://github.com/deenajabatchu)  
 - **LinkedIn**: [linkedin.com/in/deenaja-batchu](https://www.linkedin.com/in/deenaja-batchu)  
 - **Email**: [deenajabatchu@gmail.com](mailto:deenajabatchu@gmail.com)  
-- **Phone**: +91 7671071985  
 
 ---
 
