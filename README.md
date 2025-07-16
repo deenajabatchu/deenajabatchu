@@ -39,7 +39,7 @@ Currently exploring opportunities to enhance my skills and contribute to challen
 ### 📌 [Notes Management System](https://github.com/deenajabatchu/NotesApp)
 Built a full-stack note-taking app with Flask, MySQL, SQLAlchemy, and Bootstrap. It supports creating, updating, and deleting notes with persistent storage and responsive UI.
 
-### 📌 [Python OOP Mini Projects](https://github.com/deenajabatchu/python-oop-mini-projects)
+### 📌 [Python OOP Mini Projects](https://github.com/deenajabatchu/oop-python-mini-projects)
 A collection of Python applications demonstrating OOP concepts, including:
 - ATM Machine
 - Lift Management System
