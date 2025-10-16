@@ -1,104 +1,82 @@
-# 👋 Hello, I'm Deenaja Batchu
+# 👋 Hi, I'm Deenaja Batchu  
 
-🎓 B.Tech in Computer Science and Engineering | Sir CR Reddy College of Engineering (2022–2026)  
-📈 CGPA: 9.1/10  
-💻 Aspiring Software Engineer | Python Full Stack Developer | Tech Enthusiast  
+🎯 **Aspiring Software Engineer | Python Full Stack Developer | DSA Enthusiast**  
 
----
-
-## 💼 About Me
-
-I am a passionate and goal-driven Computer Science student with a strong foundation in **Python, Java, Data Structures & Algorithms**, and **Full Stack Development**. I enjoy solving real-world problems, building scalable applications, and contributing to impactful tech solutions.
-
-Currently exploring opportunities to enhance my skills and contribute to challenging software engineering projects in a dynamic team.
+I’m a passionate and dedicated Computer Science student with a strong foundation in **Python Full Stack Development** and **Data Structures & Algorithms**.  
+As a top-performing student in my department (**CGPA: 9.0**), I love building scalable, user-friendly applications and applying my problem-solving skills to real-world challenges. I thrive in dynamic, growth-oriented environments where I can learn, innovate, and contribute meaningfully.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧑‍💻 Technical Experience  
 
-- **Languages**: Python, Java, C, C++, JavaScript, HTML, CSS  
-- **Web Development**: Flask, Bootstrap, React.js (basic)  
-- **Databases**: MySQL, SQLAlchemy  
-- **Tools & Platforms**: Git & GitHub, VS Code, Google Colab, Anaconda  
-- **CS Fundamentals**: DSA, DBMS, OS, OOP, CN, Agile, Scrum  
+### 🚀 **Infosys Springboard — Python Full Stack Intern**  
+- Developed a **fully functional e-commerce fashion website** using Flask, HTML, CSS, Bootstrap, SQLAlchemy, and Pytest.  
+- Implemented key features like user authentication, product listing, and checkout systems to simulate real-world e-commerce workflows.  
 
----
-
-## 🧠 Certifications
-
-- **Python Basics** – HackerRank  
-- **Generative AI** – Microsoft  
-- **Artificial Intelligence & Agile** – Infosys Springboard  
-- **Data Structures & Algorithms** – CareerNinja  
-- **Basics of HTML & CSS** – OpenWaver  
+### 💻 **TechSonix Solutions — Web Development Intern**  
+- Created a **responsive personal portfolio website** using HTML, CSS, and JavaScript.  
+- Focused on clean UI design, smooth navigation, and professional presentation to enhance user experience.  
 
 ---
 
-## 🌟 Projects
+## 🛠️ Tech Stack  
 
-### 📌 [Notes Management System](https://github.com/deenajabatchu/NotesApp)
-Built a full-stack note-taking app with Flask, MySQL, SQLAlchemy, and Bootstrap. It supports creating, updating, and deleting notes with persistent storage and responsive UI.
-
-### 📌 [Python OOP Mini Projects](https://github.com/deenajabatchu/oop-python-mini-projects)
-A collection of Python applications demonstrating OOP concepts, including:
-- ATM Machine
-- Lift Management System
-- Parking Lot Manager
-- Ticket Booking System
-
-### 📌 [Weather Monitoring System](https://github.com/deenajabatchu/weather-monitoring-system)
-Real-time weather tracker using OpenWeatherMap API with alert generation and daily summaries.
-
-### 📌 [Zeotap Rule Engine](https://github.com/deenajabatchu/zeotap-rule-engine)
-Developed a rule engine using Abstract Syntax Tree (AST) to determine eligibility based on attributes like age and income.
+**Languages:** Python, Java, JavaScript, HTML, CSS  
+**Frameworks & Libraries:** Flask, Bootstrap  
+**Databases:** MySQL, SQLAlchemy  
+**Developer Tools:** Git, GitHub, VS Code  
+**Core Subjects:** Data Structures & Algorithms, OOP, DBMS  
 
 ---
 
-## 🏢 Internship Experience
+## 🎓 Education  
 
-### 🌐 Infosys Springboard | Python Full Stack Intern
-- Built an e-commerce fashion website with Flask, Bootstrap, SQLAlchemy, and Pytest.
-- Implemented user authentication, browsing, and cart functionalities.
+**B.Tech in Computer Science and Engineering**  
+Sir C.R. Reddy College of Engineering, Eluru  
+📊 CGPA: 9.0 (Expected 2026)  
 
-### 🌐 Techsonix Solutions | Web Development Intern
-- Developed a responsive personal portfolio using React.js, HTML, CSS, and JavaScript.
-- Gained experience in frontend development and deployment best practices.
-
----
-
-## 🏆 Achievements
-
-- Finalist – JAGSoM Humanification Case Challenge 2025  
-- Selected – Infosys Springboard Pragati Cohort 2 Mentorship Program  
-- Contributor – GirlScript Summer of Code (GSSoC'24)  
-- Winner – Multiple Tech Expos and Paper/PPT Presentation Competitions  
-- 5★ Python – HackerRank  
+**Intermediate (MPC)** – Sri Chaitanya Junior College, Repalle  
+📈 Percentage: 96%  
 
 ---
 
-## 📚 Education
+## 🧩 Projects  
 
-- 🎓 **B.Tech – Computer Science & Engineering**  
-  Sir CR Reddy College of Engineering, Eluru | CGPA: 9.1/10
+### 📝 [Notes Management System](#)  
+Full-stack web application built using **Flask, MySQL, Bootstrap, and SQLAlchemy**.  
+Implements complete CRUD operations with persistent storage for managing personal notes efficiently.  
 
-- 📘 **Intermediate – MPC**  
-  Sri Chaitanya Junior College, Repalle | Score: 96%
-
----
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/deenaja-batchu)  
-- 🧑‍💻 [GitHub](https://github.com/deenajabatchu)  
-- 📧 [Email](mailto:deenajabatchu@gmail.com)
+### 🌿 [Village Waste Management System](#)  
+Developed a community-focused platform using **Flask, Python, MySQL, HTML, CSS, JavaScript**.  
+Allows villagers to raise waste collection requests, while admins can manage and update statuses—promoting a clean and green initiative.  
 
 ---
 
-## 🚀 Current Learning Goals
+## 🏆 Achievements & Certifications  
 
-- Mastering **DSA in Python**  
-- Deepening skills in **Data Science & Full Stack Development**
+- 🥇 Finalist — **JAGSoM Humanification Case Challenge 2025 (Apna Foundation)**  
+- 🎓 **Infosys Springboard Pragati Cohort 2 Mentorship Program Student**  
+- ⭐ **5 Stars in Python and MySQL** on HackerRank  
+- 🏆 Winner — Multiple Tech Expos, Paper & PPT Presentations  
+- 📜 Certified in **DSA (CareerNinja)**, **Agile & Scrum (Infosys Springboard)**, and **Python (HackerRank)**  
 
 ---
 
-> 🔍 *Open to internship & collaboration opportunities in software development, backend engineering, and data-focused roles.*
+## 🌱 Currently Learning  
+
+- React.js for dynamic front-end development  
+- Flask & REST APIs for backend integration  
+- Data Analytics fundamentals  
+
+---
+
+## 📫 Let’s Connect  
+
+📧 **Email:** [deenajabatchu@gmail.com](mailto:deenajabatchu@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/deenajabatchu](https://linkedin.com/in/deenajabatchu)  
+💻 **Portfolio:** [Your Portfolio Link](https://portfolio-deenaja.onrender.com)  
+🌐 **GitHub:** [github.com/deenajabatchu](https://github.com/deenajabatchu)  
+
+---
+
+⭐ *"Striving to write clean code, design better systems, and make meaningful impact through technology."*  
