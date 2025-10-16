@@ -64,9 +64,10 @@ Allows villagers to raise waste collection requests, while admins can manage and
 
 ## 🌱 Currently Learning  
 
-- React.js for dynamic front-end development  
+- Mastering DSA using Python
+- Data Analytics fundamentals
 - Flask & REST APIs for backend integration  
-- Data Analytics fundamentals  
+  
 
 ---
 
