@@ -21,10 +21,24 @@
 # 🌐 Portfolio
 
 <p align="center">
-  <a href="https://deenajabatchuportfolio.netlify.app/">
+  <a href="https://deenajabatchuportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
+---
+
+# 📺 YouTube Channel
+
+<p align="center">
+  <a href="https://www.youtube.com/@CodeKathaD-Telugu" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🎥 Sharing coding, tech learning, projects, and development journey 🚀
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -173,15 +187,15 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/deenaja-batchu">
+  <a href="https://linkedin.com/in/deenaja-batchu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://github.com/deenajabatchu">
+  <a href="https://github.com/deenajabatchu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="mailto:deenajabatchu@gmail.com">
+  <a href="mailto:deenajabatchu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
