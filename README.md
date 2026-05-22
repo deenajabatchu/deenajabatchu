@@ -21,7 +21,7 @@
 # 🌐 Portfolio
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
+  <a href="https://deenajabatchuportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
