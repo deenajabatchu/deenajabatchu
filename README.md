@@ -1,83 +1,184 @@
-# 👋 Hi, I'm Deenaja Batchu  
+<h1 align="center">Hi 👋, I'm Deenaja Batchu</h1>
+<h3 align="center">🚀 Aspiring Software Developer | Python Full Stack Developer | AI & Data Enthusiast</h3>
 
-🎯 **Aspiring Software Engineer | Python Full Stack Developer | DSA Enthusiast**  
-
-I’m a passionate and dedicated Computer Science student with a strong foundation in **Python Full Stack Development** and **Data Structures & Algorithms**.  
-As a top-performing student in my department (**CGPA: 9.0**), I love building scalable, user-friendly applications and applying my problem-solving skills to real-world challenges. I thrive in dynamic, growth-oriented environments where I can learn, innovate, and contribute meaningfully.
-
----
-
-## 🧑‍💻 Technical Experience  
-
-### 🚀 **Infosys Springboard — Python Full Stack Intern**  
-- Developed a **fully functional e-commerce fashion website** using Flask, HTML, CSS, Bootstrap, SQLAlchemy, and Pytest.  
-- Implemented key features like user authentication, product listing, and checkout systems to simulate real-world e-commerce workflows.  
-
-### 💻 **TechSonix Solutions — Web Development Intern**  
-- Created a **responsive personal portfolio website** using HTML, CSS, and JavaScript.  
-- Focused on clean UI design, smooth navigation, and professional presentation to enhance user experience.  
+<p align="center">
+  <a href="https://github.com/deenajabatchu">
+    <img src="https://komarev.com/ghpvc/?username=deenajabatchu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🌟 About Me
 
-**Languages:** Python, Java, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** Flask, Bootstrap  
-**Databases:** MySQL, SQLAlchemy  
-**Developer Tools:** Git, GitHub, VS Code  
-**Core Subjects:** Data Structures & Algorithms, OOP, DBMS  
-
----
-
-## 🎓 Education  
-
-**B.Tech in Computer Science and Engineering**  
-Sir C.R. Reddy College of Engineering, Eluru  
-📊 CGPA: 9.0 (Expected 2026)  
-
-**Intermediate (MPC)** – Sri Chaitanya Junior College, Repalle  
-📈 Percentage: 96%  
+💻 Passionate about building scalable and efficient applications  
+🎯 Interested in Full Stack Development, AI, Data Analytics & Generative AI  
+📚 Currently improving problem-solving and development skills  
+🏆 Gold Medalist for Academic Excellence  
+🚀 Selected for Infosys Springboard Internship & Pragati Cohort 2  
+📈 Strong interest in real-world problem-solving using technology  
 
 ---
 
-## 🧩 Projects  
+## 🛠️ Tech Stack
 
-### 📝 [Notes Management System](#)  
-Full-stack web application built using **Flask, MySQL, Bootstrap, and SQLAlchemy**.  
-Implements complete CRUD operations with persistent storage for managing personal notes efficiently.  
+<div align="center">
 
-### 🌿 [Village Waste Management System](#)  
-Developed a community-focused platform using **Flask, Python, MySQL, HTML, CSS, JavaScript**.  
-Allows villagers to raise waste collection requests, while admins can manage and update statuses—promoting a clean and green initiative.  
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
 
----
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,bootstrap" />
+</p>
 
-## 🏆 Achievements & Certifications  
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-- 🥇 Finalist — **JAGSoM Humanification Case Challenge 2025 (Apna Foundation)**  
-- 🎓 **Infosys Springboard Pragati Cohort 2 Mentorship Program Student**  
-- ⭐ **5 Stars in Python and MySQL** on HackerRank  
-- 🏆 Winner — Multiple Tech Expos, Paper & PPT Presentations  
-- 📜 Certified in **DSA (CareerNinja)**, **Agile & Scrum (Infosys Springboard)**, and **Python (HackerRank)**  
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
----
-
-## 🌱 Currently Learning  
-
-- Mastering DSA using Python
-- Data Analytics fundamentals
-- Flask & REST APIs for backend integration  
-  
+</div>
 
 ---
 
-## 📫 Let’s Connect  
+## 📚 Academic Coursework
 
-📧 **Email:** [deenajabatchu@gmail.com](mailto:deenajabatchu@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/deenajabatchu](https://linkedin.com/in/deenajabatchu)  
-💻 **Portfolio:** [Your Portfolio Link](https://portfolio-deenaja.onrender.com)  
-🌐 **GitHub:** [github.com/deenajabatchu](https://github.com/deenajabatchu)  
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Software Development Fundamentals
 
 ---
 
-⭐ *"Striving to write clean code, design better systems, and make meaningful impact through technology."*  
+## 💼 Internship Experience
+
+### 🔹 Infosys Springboard — Python Full Stack Intern
+- Developed a Flask-based E-Commerce Application
+- Implemented Authentication & Checkout Features
+- Built Dashboards for Better Reporting Visualization
+- Worked in Agile Environment as Scrum Master Intern
+- Improved Team Productivity & Sprint Coordination
+
+**Tech Stack:**  
+`Python` `Flask` `HTML` `CSS` `JavaScript` `Bootstrap` `SQLAlchemy`
+
+---
+
+### 🔹 Techsonix Solutions — Web Development Intern
+- Developed a Responsive Portfolio Website
+- Improved User Navigation & UI Experience
+- Focused on Frontend Design Best Practices
+
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+---
+
+# 🚀 Featured Projects
+
+## 📝 Notes Management System
+
+🔹 Flask-based Full Stack Notes Application  
+🔹 Secure Authentication System  
+🔹 CRUD Operations for Notes Management  
+🔹 Integrated MySQL with SQLAlchemy ORM  
+
+### ⚡ Tech Used
+`Python` `Flask` `MySQL` `SQLAlchemy` `HTML` `CSS`
+
+---
+
+## ♻️ Village Waste Management System
+
+🔹 Web Platform for Managing Waste Collection Requests  
+🔹 Role-Based Admin Management System  
+🔹 Solves Real-World Rural Waste Management Challenges  
+
+### ⚡ Tech Used
+`Python` `Flask` `MySQL` `HTML` `CSS`
+
+---
+
+## 📊 Data Cleaning & EDA using MySQL
+
+🔹 Analyzed Real-World Layoffs Dataset  
+🔹 Performed Data Cleaning & Standardization  
+🔹 Used SQL Aggregations, Grouping & Joins  
+🔹 Improved Query Performance & Insights Generation  
+
+### ⚡ Tech Used
+`MySQL` `SQL`
+
+---
+
+## 🏆 Achievements
+
+🥇 Recipient of **Sri Gutta Sambaiah Gold Medal** for Academic Excellence  
+
+📄 Published Research Paper:  
+**"Energy Consumption Forecasting and Visualization for Smart Homes using Data Analytics and Machine Learning"**
+
+🎯 Finalist — JAGSoM Humanification Case Challenge 2025  
+
+🚀 Infosys Springboard Pragati Cohort 2 Mentee  
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+| Certification | Platform |
+|---|---|
+| DBMS | Infosys Springboard |
+| OOPs | Infosys Springboard |
+| Agile Development | Infosys Springboard |
+| Java | Infosys Springboard |
+| DSA | CareerNinja |
+| Python | HackerRank |
+| MySQL | HackerRank |
+
+</div>
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deenajabatchu&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deenajabatchu&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deenajabatchu&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/deenaja-batchu">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://github.com/deenajabatchu">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="mailto:deenajabatchu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ “Code. Learn. Build. Grow.” ✨</h3>
