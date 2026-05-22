@@ -169,17 +169,43 @@
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deenajabatchu&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/deenajabatchu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deenajabatchu&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true"/>
+</a>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=deenajabatchu&theme=tokyonight"/>
+<a href="https://github.com/deenajabatchu">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=deenajabatchu&theme=radical&hide_border=true&border_radius=15"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deenajabatchu&layout=compact&theme=tokyonight"/>
+</p>
 
-</div>
+<p align="center">
+
+<a href="https://github.com/deenajabatchu">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deenajabatchu&layout=compact&theme=radical&hide_border=true&border_radius=15"/>
+</a>
+
+<a href="https://github.com/deenajabatchu">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deenajabatchu&theme=radical"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deenajabatchu&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deenajabatchu&theme=react-dark&hide_border=true&area=true"/>
+</p>
 
 ---
 
@@ -201,4 +227,4 @@
 
 ---
 
-<h3 align="center">✨ “Code. Learn. Build. Grow.” ✨</h3>
+<h3 align="center">✨Code. Learn. Build. Grow.✨</h3>
