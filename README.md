@@ -18,6 +18,13 @@
 🚀 Selected for Infosys Springboard Internship & Pragati Cohort 2  
 📈 Strong interest in real-world problem-solving using technology  
 
+# 🌐 Portfolio
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
